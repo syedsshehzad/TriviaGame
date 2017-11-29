@@ -1,0 +1,46 @@
+body {
+	margin: 20px 50px;
+	color: rgb(50,50,100);
+	font-family: "Times New Roman";
+}
+
+div {
+	margin: 10px auto;
+	padding: 10px;
+	clear: both;
+	float: left;
+}
+
+#time {
+	font: bold 26px arial;
+}
+
+#question {
+	font-size: 26px;
+	background-color: rgb(200,240,200);
+	border: ridge 4px rgb(100,100,50);
+}
+
+#choices {
+	font-size: 20px;
+	background-color: rgb(240,200,200);
+	border: ridge 4px rgb(100,50,100);
+}
+
+#startreset {
+	font-size: 20px;
+}
+
+h1 {
+	font: bold 36px arial;
+}
+
+img {
+	height: 250px;
+	width: auto;
+}
+
+button {
+	font-family: arial;
+	border-radius: 6px;
+}
