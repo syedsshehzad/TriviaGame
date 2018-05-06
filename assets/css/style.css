@@ -17,13 +17,13 @@ div {
 
 #question {
 	font-size: 26px;
-	background-color: rgb(200,240,200);
+	background-color: rgb(200,200,240);
 	border: ridge 4px rgb(100,100,50);
 }
 
 #choices {
 	font-size: 20px;
-	background-color: rgb(240,200,200);
+	background-color: rgb(200,200,240);
 	border: ridge 4px rgb(100,50,100);
 }
 
